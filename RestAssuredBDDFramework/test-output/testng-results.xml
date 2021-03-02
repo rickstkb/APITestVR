@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="2736" started-at="2021-03-01T21:45:46Z" finished-at="2021-03-01T21:45:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="2736" started-at="2021-03-01T21:45:46Z" finished-at="2021-03-01T21:45:49Z">
+      <class name="com.qa.rest.tests.API_TC02">
+        <test-method status="PASS" signature="preSets()[pri:0, instance:com.qa.rest.tests.API_TC02@482f8f11]" name="preSets" is-config="true" duration-ms="2303" started-at="2021-03-01T18:45:46Z" finished-at="2021-03-01T18:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- preSets -->
+        <test-method status="PASS" signature="chamaCEPInvalido()[pri:0, instance:com.qa.rest.tests.API_TC02@482f8f11]" name="chamaCEPInvalido" duration-ms="408" started-at="2021-03-01T18:45:48Z" finished-at="2021-03-01T18:45:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chamaCEPInvalido -->
+      </class> <!-- com.qa.rest.tests.API_TC02 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
